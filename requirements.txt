@@ -2,6 +2,6 @@ pandas
 numpy
 scipy
 requests
-matplotlib.pyplot
+pyplot
 matplotlib
 datetime
