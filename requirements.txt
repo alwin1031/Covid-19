@@ -1,0 +1,6 @@
+goatools==1.0.3
+gseapy==0.9.18
+pandas
+numpy
+statsmodels
+scipy
