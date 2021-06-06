@@ -1,3 +1,8 @@
 pandas
 numpy
 scipy
+requests
+io
+matplotlib.pyplot
+matplotlib
+datetime
