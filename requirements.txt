@@ -2,7 +2,6 @@ pandas
 numpy
 scipy
 requests
-StringIO
 matplotlib.pyplot
 matplotlib
 datetime
